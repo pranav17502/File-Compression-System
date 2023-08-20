@@ -18,7 +18,7 @@ This is a fully working File Compression System for .txt files. I have incorpora
 Clone the project
 
 ```bash
-  git clone https://github.com/pranav17502/WeatherNet-Deep-Learning-for-Weather-Image-Classification/
+  git clone https://github.com/pranav17502/File-Compression-System/
 ```
 ### Compressing the file
 
@@ -43,6 +43,8 @@ Executing the project
 ```bash
     ./decode <compressedFileName.huf> <outputFileName.txt>
 ```
+### Results
+![App Screenshot]([https://github.com/pranav17502/File-Compression-System/edit/master/images/sizes.png])
 
 
 

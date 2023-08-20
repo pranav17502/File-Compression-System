@@ -44,7 +44,7 @@ Executing the project
     ./decode <compressedFileName.huf> <outputFileName.txt>
 ```
 ### Results
-![App Screenshot]([https://github.com/pranav17502/File-Compression-System/edit/master/images/sizes.png])
+![App Screenshot](https://github.com/pranav17502/File-Compression-System/blob/master/images/sizes.png?raw=true)
 
 
 
